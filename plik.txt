@@ -1,2 +1,1 @@
 Zmiana pliku1
-Dodanie funnkcji eksperymentalnej
